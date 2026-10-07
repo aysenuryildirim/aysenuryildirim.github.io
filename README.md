@@ -1,36 +1,44 @@
-# Nur Yıldırım Portfolio
+# Ayşe Nur Yıldırım — Portfolio
 
-This is a simple static portfolio prepared for GitHub Pages.
+Personal portfolio website for QA, production coordination, game analytics and product-focused game deconstruction work.
 
-## 1. Replace the placeholder links in `index.html`
+## Live site
 
-Search for these texts and replace them:
+Once GitHub Pages is enabled, the site will be available at:
 
-- `YOUR_CAR_SORT_ARTICLE_LINK`
-- `YOUR_YARN_LOOP_ARTICLE_LINK`
-- `YOUR_ROYAL_SMASH_ARTICLE_LINK`
-- `https://www.linkedin.com/`
-- `YOUR_EMAIL@example.com`
+`https://aysenuryildirim.github.io`
 
-## 2. Publish free with GitHub Pages
+## Before publishing the final version
 
-1. Create a GitHub account if you do not have one.
-2. Create a new **public** repository named `nuryildirim.github.io`
-   - If your GitHub username is different, use `YOURUSERNAME.github.io`.
-3. Upload `index.html` and `styles.css`.
-4. Open repository **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select branch **main** and folder **/(root)**.
-7. Save.
+Current article status:
 
-Your portfolio will then be available at:
+- Car Sort — published and linked
+- Yarn Loop — published and linked
+- Royal Smash — available as a PDF directly from the portfolio
 
-`https://YOURUSERNAME.github.io`
+## GitHub Pages settings
 
-## 3. Recommended next improvements
+Repository:
 
-- Replace the colored placeholders with real game screenshots.
-- Add your real LinkedIn article URLs.
-- Add a CV button.
-- Add your GitHub / LinkedIn profile links.
-- Optionally create separate case-study pages later.
+`aysenuryildirim.github.io`
+
+Then go to:
+
+**Settings → Pages → Build and deployment**
+
+Choose:
+
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/(root)`
+
+Save the settings.
+
+## Portfolio focus
+
+- QA & Release
+- Production Coordination
+- LiveOps
+- Game Analytics
+- Product Thinking
+- Mobile Game Deconstruction
